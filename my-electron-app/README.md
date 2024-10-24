@@ -1,4 +1,5 @@
 # React + Vite
 скачайте зависимости при помощи npm install
 пропишите команду npm run dev
-npm run start
+npm start -- --no-sandbox
+
